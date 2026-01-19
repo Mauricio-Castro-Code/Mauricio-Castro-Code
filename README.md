@@ -87,17 +87,33 @@ src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cd
 
 ---
 
-<h3 align="center">📌 Highlight Project</h3>
+<h3 align="center">📌 Highlight Projects</h3>
 
 <p align="center">
-<b>NeuroFit App</b> — Full-Stack Fitness Management Platform<br><br>
+<b>Crystal Inventory System</b> — Serverless Inventory Management Platform<br><br>
 
-• Mobile app with React Native (Expo)<br>
-• PHP + MySQL backend<br>
-• Role-based access (Admin / User)<br>
-• Routine calendar, PDF diets, QR attendance<br><br>
+• Fully serverless architecture on AWS<br>
+• Frontend built with HTML, CSS, JavaScript, and Bootstrap<br>
+• Backend using AWS Lambda (Node.js) and API Gateway<br>
+• NoSQL data storage with Amazon DynamoDB<br>
+• Static website hosted live on Amazon S3<br><br>
 
-<a href="https://github.com/TU_USUARIO/neurofit">🔗 View Repository</a>
+<a href="http://crystal-inventario.s3-website-us-east-1.amazonaws.com/">🌐 Live Website</a> &nbsp;|&nbsp;
+<a href="https://github.com/Mauricio-Castro-Code/crystal-inventory">🔗 View Repository</a>
+
+<br>
+
+<p align="center">
+<b>Alquiladora Crystal Website</b> — High-Performance Business Website<br><br>
+
+• Static business website built with HTML5, CSS3, JavaScript, and Bootstrap<br>
+• Accessibility-first and SEO-optimized design<br>
+• Lighthouse scores: 95 Performance, 97 Accessibility, 100 SEO, 96 Best Practices<br>
+• Deployed on Vercel with custom domain and analytics integration<br>
+• Production-ready website for a real rental business<br><br>
+
+<a href="https://alquiladoracrystal.com/">🌐 Live Website</a> &nbsp;|&nbsp;
+<a href="https://github.com/TU_USUARIO/alquiladora-crystal-web">🔗 View Repository</a>
 </p>
 
 ---
