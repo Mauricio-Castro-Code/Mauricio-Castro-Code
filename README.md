@@ -118,6 +118,18 @@ src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cd
 
 ---
 
+
+<h3 align="center">🏆 Hackathons & Activities</h3>
+
+<p align="center">
+<b>Hack PUE 2025</b> — Tecnológico de Monterrey (Campus Puebla)<br><br>
+
+• Participated in a time-constrained hackathon environment<br>
+• Collaborated with a multidisciplinary team to design and develop a functional software solution<br>
+• Contributed to problem analysis, solution design, and implementation<br>
+• Strengthened skills in teamwork, rapid prototyping, and technical decision-making under pressure
+</p>
+---
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
