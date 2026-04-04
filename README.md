@@ -24,7 +24,7 @@
 - 📱 Focused on **Cloud Development & Backend Systems**
 - 🧠 Strong interest in **real-world applications**
 - 🔧 Experience building **end-to-end systems**
-- 💬 Ask me about **React Native, PHP, APIs, Databases**
+- 💬 Ask me about **Angular Framework, AWS, APIs, Databases**
 - 📫 Reach me at **castrovalencia844@gmail.com**
 
 </td>
@@ -104,13 +104,14 @@ src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cd
 <br>
 
 <p align="center">
-<b>Alquiladora Crystal Website</b> — High-Performance Business Website<br><br>
+<b>Alquiladora Crystal Website</b> — High-Performance Business Platform<br><br>
 
-• Static business website built with HTML5, CSS3, JavaScript, and Bootstrap<br>
-• Accessibility-first and SEO-optimized design<br>
-• Lighthouse scores: 95 Performance, 97 Accessibility, 100 SEO, 96 Best Practices<br>
-• Deployed on Vercel with custom domain and analytics integration<br>
-• Production-ready website for a real rental business<br><br>
+• <b>Designed</b> and <b>developed</b> a production-ready business website using HTML5, CSS3, JavaScript, and Bootstrap<br>
+• <b>Implemented</b> responsive, mobile-first UI with accessibility-first and SEO-optimized architecture<br>
+• <b>Integrated</b> contact workflows using Resend API for reliable email delivery and customer interaction<br>
+• <b>Deployed</b> on Vercel with custom domain, enabling Web Analytics and Speed Insights for performance monitoring<br>
+• <b>Optimized</b> performance achieving Lighthouse scores: 95 Performance, 97 Accessibility, 100 SEO, 96 Best Practices<br>
+• <b>Delivered</b> a scalable and maintainable solution for a real-world rental business environment<br><br>
 
 <a href="https://alquiladoracrystal.com/">🌐 Live Website</a> &nbsp;|&nbsp;
 <a href="https://github.com/Mauricio-Castro-Code/WebCrystal">🔗 View Repository</a>
